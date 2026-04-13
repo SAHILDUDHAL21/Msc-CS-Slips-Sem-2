@@ -1,0 +1,9 @@
+{
+  "name": "slip-3",
+  "version": "1.0.0",
+  "description": "Slip 3 - Built-in modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

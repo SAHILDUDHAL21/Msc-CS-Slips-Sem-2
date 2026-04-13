@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head><title>Registration Form</title></head>
+<body>
+    <h2>Register</h2>
+    <form id="regForm">
+        <input type="text" id="name" placeholder="Name" required><br>
+        <input type="email" id="email" placeholder="Email" required><br>
+        <input type="password" id="password" placeholder="Password" required><br>
+        <input type="text" id="phone" placeholder="Phone" required><br>
+        <button type="submit">Submit</button>
+    </form>
+    <p id="message"></p>
+    <script>
+        document.getElementById('regForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const phone = document.getElementById('phone').value;
+            if(phone.length !== 10 || isNaN(phone)) {
+                document.getElementById('message').innerText = 'Invalid phone number';
+                return;
+            }
+            document.getElementById('message').innerText = 'Registration Successful!';
+        });
+    </script>
+</body>
+</html>

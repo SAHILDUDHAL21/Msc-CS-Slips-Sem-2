@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InsertNewContactUsingIntent</string>
+    <string name="insert_contact">Insert Contact</string>
+</resources>

@@ -1,0 +1,9 @@
+Slip 17
+====================
+Q.1 Write a program to classify Iris data set using graph.
+Q.2 Write a program to implement fuzzy logic by using the following rules:
+c. If temp is high , fan speed is high.
+d. If traffic signal is red , motor is stopped.
+[11]
+Q.3 Viva
+[4]

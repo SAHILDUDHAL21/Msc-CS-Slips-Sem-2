@@ -1,0 +1,9 @@
+Slip 6
+====================
+Q.1 Find the applications where fuzzy logic is implemented with rule s:
+If the temperature is high the Fan speed is high.
+If distance is large, motor speed is fast.
+Q2. Classify Iris data set using graph.
+[11]
+Q.3 Viva
+[4]

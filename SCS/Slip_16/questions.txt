@@ -1,0 +1,9 @@
+Slip 16
+====================
+Q.1 Write a program to implement following basic operations on fuzzy sets
+[10]
+Union, intersection, cartesian product
+Q2. Write a program to implement IRIS data set using graph.
+[11]
+Q.3 Viva
+[4]

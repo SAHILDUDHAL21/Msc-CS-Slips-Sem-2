@@ -1,0 +1,9 @@
+{
+  "name": "slip-4",
+  "version": "1.0.0",
+  "description": "Slip 4 - System Information",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

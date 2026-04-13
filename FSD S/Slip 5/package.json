@@ -1,0 +1,9 @@
+{
+  "name": "slip-5",
+  "version": "1.0.0",
+  "description": "Slip 5 - Fetch mock API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

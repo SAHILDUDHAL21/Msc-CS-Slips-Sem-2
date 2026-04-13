@@ -1,0 +1,133 @@
+in express validation use express validator 
+
+
+slip 1
+
+ Write a Node.js program Implement JavaScript events to validate a registration form (name, email, 
+password, phone no etc.)
+
+slip 2
+
+ Write Node.js program creates a User Login System. If username and password is same, 
+then throw message is “login successfully completed” otherwise throw error message 
+“login fail “using then and catch method. 
+
+slip 3
+
+ Write a Node.js program using built-in modules (fs, path, http)
+
+slip 4 
+
+ Write a Create a basic Node.js application that displays system information (OS, CPU, 
+memory).
+
+slip 5 
+
+ Using Node JS Implement async/await to fetch and display user data from a mock API. 
+
+slip 6
+
+ Write a program for Movie Database Perform CRUD operations using Mongoose.  
+
+slip 7
+
+  Create an Express.js application with form handling and validation.
+
+slip 8
+
+ Write Create a basic UI/UX-friendly login page using HTML, CSS, and JavaScript 
+with client-side validation. 
+
+
+slip 9
+
+ Write a program for Node.js creates student database, Implement search and filter 
+queries using Mongoose.
+
+
+slip 10
+
+ Write a program develop an Express.js application with multiple routes (GET, POST)
+
+slip 11
+
+ Using Express.js Create a RESTful API using Express.js for CRUD operations on user 
+data.  
+
+
+slip 12
+
+ Create a Node.js program that reads data from a file and writes processed output to another 
+file
+
+slip 13
+
+ Write Create a custom module and demonstrate require () and export. 
+
+slip 14
+
+ Create an Express.js application with form handling and validation. 
+
+
+slip 15 
+
+Write a program for Node.js creates Teacher database, implement search and filter 
+queries using Mongoose. 
+
+slip 16
+
+Write a program in Node.js to create a 'sign-up' form with the fields (name, email, 
+password, phone). Insert the data into a MongoDB database. If the user signs up, allow 
+them to sign in using the same credentials. If the credentials do not match or the user is 
+not registered, return a message stating 'Unauthorized user’.
+
+slip 17
+
+ Create a basic UI/UX-friendly login page using HTML, CSS, and JavaScript with 
+client-side validation.
+
+
+slip 18
+
+ Write Node.js program creates a User Login System. If username and password is same, 
+then throw message is “login successfully” otherwise throw error message “login fail 
+“using then and catch method. 
+
+
+slip 19 
+
+ Create Node.js program to get path of home directory for current file and to get the 
+hostname of the operating system. (Using OS module)   
+
+
+slip 20
+
+ Using Node JS and Express JS create a User Login System
+
+
+slip 21
+
+ Write a JavaScript program using Promises to simulate data fetching from a server. 
+
+
+slip 22
+
+ Write a JavaScript program using objects to store and manipulate employee details.
+
+
+slip 23
+
+ Write a JavaScript program variables, operators, arrays, and functions for managing a 
+student marks system.
+
+
+slip 24
+
+ Write a JavaScript program to create Character counter and word counter web page. 
+
+slip 25 
+
+ Write a JavaScript program that changes multiple background color automatically 
+when page is load on window. 
+
+

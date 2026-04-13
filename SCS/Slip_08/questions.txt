@@ -1,0 +1,10 @@
+Slip 8
+====================
+Q.1 Write a program to implement fuzzy logic by using the following rules:
+a. If temp is high , fan speed is high.
+b. If traffic signal is red , motor is stopped.
+[10]
+Q.2 Write a program to implement linear regression model with gradient descent Function.
+[11]
+Q.3 Viva
+[4]

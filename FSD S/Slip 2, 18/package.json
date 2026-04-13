@@ -1,0 +1,9 @@
+{
+  "name": "slip-2-18",
+  "version": "1.0.0",
+  "description": "Slip 2, 18 - Node.js Login System with Promise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

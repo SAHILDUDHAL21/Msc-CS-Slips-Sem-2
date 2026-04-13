@@ -1,0 +1,11 @@
+Slip 5
+====================
+Q.1 Write a program to implement the following basic operations on fuzzy sets
+Union, Complement, difference, Intersection
+[10]
+Q.2 Write a program to implement basic genetic algorithm. Generate a population of size
+100. Each element in the population is a 20 bit string with objective function of sum(x)
+and number of iterations > 100
+[11]
+Q.3 Viva
+[4]

@@ -1,0 +1,9 @@
+{
+  "name": "slip-12",
+  "version": "1.0.0",
+  "description": "Slip 12 - Read/write file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

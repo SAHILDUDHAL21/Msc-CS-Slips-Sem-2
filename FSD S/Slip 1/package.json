@@ -1,0 +1,12 @@
+{
+  "name": "slip-1",
+  "version": "1.0.0",
+  "description": "Slip 1 - Node.js UI validation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

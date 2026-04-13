@@ -1,0 +1,9 @@
+{
+  "name": "slip-21",
+  "version": "1.0.0",
+  "description": "Slip 21 - Promises",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

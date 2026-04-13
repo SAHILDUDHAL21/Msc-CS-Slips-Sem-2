@@ -1,0 +1,9 @@
+Slip 11
+====================
+Q.1 Write a program to implement following basic operations on fuzzy sets
+[10]
+Union, Intersection, Complement and Difference
+Q.2 Write a program to implement AND gate using perceptron learning algorithm.
+[11]
+Q.3 Viva
+[4]

@@ -1,0 +1,12 @@
+Slip 18
+====================
+Q.1 Write a program to implement following basic operations on fuzzy sets
+[10]
+Cartesian product and complement
+Q.2 Write a program to implement perceptron learning algorithm on the IRIS dataset,
+describe the output when the learning rate is too small and too high. Test your model
+with 0.0001, 0.01, 0.5, 1.0 learning rates, plot the graphs for different iterations and
+learning rates combination
+[11]
+Q.3 Viva
+[4]

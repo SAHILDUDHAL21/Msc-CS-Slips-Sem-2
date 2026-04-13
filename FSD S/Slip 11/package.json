@@ -1,0 +1,12 @@
+{
+  "name": "slip-11",
+  "version": "1.0.0",
+  "description": "Slip 11 - Express CRUD API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

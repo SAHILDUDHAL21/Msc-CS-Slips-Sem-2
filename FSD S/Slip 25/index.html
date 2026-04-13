@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head><title>Background Color Changer</title></head>
+<body>
+    <h2>Background Color will change automatically</h2>
+    <script>
+        window.onload = function() {
+            const colors = ['#f44336', '#9c27b0', '#2196f3', '#4caf50', '#ffeb3b', '#ff9800'];
+            let i = 0;
+            setInterval(() => {
+                document.body.style.backgroundColor = colors[i % colors.length];
+                i++;
+            }, 1000);
+        }
+    </script>
+</body>
+</html>

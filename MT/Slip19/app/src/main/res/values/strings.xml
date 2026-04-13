@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Slip 19</string>
+    <string name="layouts_title">Layouts</string>
+    <string name="user_name_label">User Name:</string>
+    <string name="password_label">Password:</string>
+    <string name="remember_password">Remember Password</string>
+    <string name="log_in">Log In</string>
+</resources>

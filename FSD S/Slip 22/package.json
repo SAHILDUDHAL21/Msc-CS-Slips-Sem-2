@@ -1,0 +1,9 @@
+{
+  "name": "slip-22",
+  "version": "1.0.0",
+  "description": "Slip 22 - JS Objects",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

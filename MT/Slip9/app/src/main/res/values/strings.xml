@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Slip 9</string>
+    <string name="hint_num1">Enter first number</string>
+    <string name="hint_num2">Enter second number</string>
+    <string name="btn_next">Next</string>
+    <string name="menu_power">Power</string>
+    <string name="menu_average">Average</string>
+    <string name="initial_result">Select an option from the menu</string>
+    <string name="result_power">Power (%1$.1f ^ %2$.1f) = %3$.2f</string>
+    <string name="result_average">Average = %1$.2f</string>
+</resources>

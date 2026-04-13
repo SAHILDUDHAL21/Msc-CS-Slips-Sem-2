@@ -1,0 +1,11 @@
+Slip 13
+====================
+Q.1 Write a program to implement following basic operations on fuzzy sets
+[10]
+DeMorgans laws (both)
+Q.2 Write a program to implement gradient descent learning algorithm, describe the
+output when the number of epochs is too small and too high. Test your model with
+50, 100, 200, 500 epochs
+[11]
+Q.3 Viva
+[4]

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Slip 23</string>
+    <string-array name="course_array">
+        <item>Android</item>
+        <item>Java</item>
+        <item>Python</item>
+        <item>PHP</item>
+        <item>C++</item>
+    </string-array>
+</resources>
